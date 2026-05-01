@@ -1,16 +1,16 @@
-# 🦠 COVID-19 Data Analysis using Machine Learning
+#  COVID-19 Data Analysis using Machine Learning
 
 A Python-based data analysis and machine learning project built in Jupyter Notebook to explore COVID-19 trends and forecast future case counts using multiple ML models.
 
 ---
 
-## 📋 About the Project
+##  About the Project
 
 This project analyzes COVID-19 case data from January 2020 to May 2021, with a deep focus on India — covering lockdown-phase analysis, recovery and mortality trends, and comparisons with other countries. It applies four machine learning models to predict confirmed cases 100 days into the future.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 **Mrunal Howale** · **Shreyash Ingale** · **Nainesh Bait** · **Aditi Jadyal**
 BE EXTC-1 — Atharva College of Engineering, Mumbai
@@ -18,19 +18,19 @@ BE EXTC-1 — Atharva College of Engineering, Mumbai
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-- 🐍 **Python** — Core programming language
-- 📓 **Jupyter Notebook** — Development environment
-- 📊 **Pandas & NumPy** — Data manipulation and analysis
-- 📈 **Plotly, Matplotlib & Seaborn** — Visualizations
-- 🤖 **Scikit-learn** — Polynomial Regression and SVR
-- 📉 **Statsmodels** — ARIMA time series model
-- 🔮 **FB Prophet** — Facebook's time series forecasting library
+-  **Python** — Core programming language
+-  **Jupyter Notebook** — Development environment
+-  **Pandas & NumPy** — Data manipulation and analysis
+-  **Plotly, Matplotlib & Seaborn** — Visualizations
+-  **Scikit-learn** — Polynomial Regression and SVR
+-  **Statsmodels** — ARIMA time series model
+-  **FB Prophet** — Facebook's time series forecasting library
 
 ---
 
-## 📂 Data Source
+##  Data Source
 
 **Source:** [Kaggle — Novel Corona Virus 2019 Dataset](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset) (originally from Johns Hopkins University)
 
@@ -38,7 +38,7 @@ Covers daily Confirmed, Recovered, and Death case counts across countries from *
 
 ---
 
-## 📒 Notebook Overview
+##  Notebook Overview
 
 The notebook is structured into the following sections:
 
